@@ -1,12 +1,10 @@
 # IntelliSQL-Querying-Databases-with-LLMs-using-Gemini Pro
 
 ## Overview
-##  Overview
 
 IntelliSQL is an AI-powered application that converts natural language queries into SQL queries using Google's Gemini Pro model. It allows users to interact with databases easily without writing SQL code manually.
 
 ---
-## Project Structure
 ## 📁 Project Structure
 
 ```
@@ -24,15 +22,7 @@ IntelliSQL/
 │── myenv/
 ```
 
-##  Features
 
-* Convert natural language into SQL queries
-* Powered by Google Gemini Pro
-* SQLite database integration
-* Interactive Streamlit interface
-* Fast and accurate results
-
----
 
 ## Features
 •	Convert natural language into SQL queries
@@ -48,13 +38,6 @@ IntelliSQL/
 * SQLite
 * python-dotenv
 
----
-## Technologies Used
-•	Python
-•	Streamlit
-•	Google Generative AI (Gemini Pro)
-•	SQLite
-•	python-dotenv
 
 
 
