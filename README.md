@@ -7,7 +7,6 @@ IntelliSQL is an AI-powered application that converts natural language queries i
 
 ---
 ## Project Structure
-
 ## 📁 Project Structure
 
 ```
