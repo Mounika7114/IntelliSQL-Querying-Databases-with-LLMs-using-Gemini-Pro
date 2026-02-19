@@ -1,0 +1,1 @@
+# IntelliSQL-Querying-Databases-with-LLMs-using-Gemini-Pro
